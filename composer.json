@@ -11,6 +11,8 @@
         }
     ],
     "require": {
+        "php": "^8",
+        "corcel/woocommerce": "*",
         "jgrossi/corcel": "*",
         "corcel/acf": "*"
     },
